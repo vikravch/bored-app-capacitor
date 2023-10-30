@@ -1,0 +1,11 @@
+.activity_title{
+    font-size: large;
+    font-weight: bolder;
+}
+.activity_type{
+    font-size: large;
+}
+.activity_price{
+    font-size: large;
+    text-decoration: underline;
+}
